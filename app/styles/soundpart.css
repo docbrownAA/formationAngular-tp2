@@ -1,0 +1,8 @@
+.left{
+	position: absolute;
+	height: 90%;
+	width: 20%;
+	border: solid;
+	bottom: 0px;
+	left: 0px;
+}
